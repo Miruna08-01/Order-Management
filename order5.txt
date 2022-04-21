@@ -1,0 +1,5 @@
+Numele clientului este: Pop Maria
+Numele produsului este Calcator
+Cantitate 1
+Pretul pe produs: 100.0
+Pretul total 100.0
